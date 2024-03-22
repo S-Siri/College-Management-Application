@@ -1,4 +1,5 @@
 # College-Management-Application
+use npm init to add node modules
 add node modules in both backend and frontend files after cloning.
 we couldn't add node modules in the git hub.
 
